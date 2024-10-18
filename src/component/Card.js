@@ -24,7 +24,7 @@ function Card({id,image,info,name,price,removeTour}){
                 </div>
             </div>
             <button className="btn-red" onClick={()=> removeTour(id)}>   
-                Not Interested
+                Man Nahi Hai
             </button>
         </div>
     );
