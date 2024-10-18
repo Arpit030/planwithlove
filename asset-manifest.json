@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/planwithlove/static/css/main.8524a906.css",
-    "main.js": "/planwithlove/static/js/main.14187444.js",
+    "main.js": "/planwithlove/static/js/main.92d5b9c3.js",
     "static/js/453.bef5205c.chunk.js": "/planwithlove/static/js/453.bef5205c.chunk.js",
     "index.html": "/planwithlove/index.html",
     "main.8524a906.css.map": "/planwithlove/static/css/main.8524a906.css.map",
-    "main.14187444.js.map": "/planwithlove/static/js/main.14187444.js.map",
+    "main.92d5b9c3.js.map": "/planwithlove/static/js/main.92d5b9c3.js.map",
     "453.bef5205c.chunk.js.map": "/planwithlove/static/js/453.bef5205c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8524a906.css",
-    "static/js/main.14187444.js"
+    "static/js/main.92d5b9c3.js"
   ]
 }
